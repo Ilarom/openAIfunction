@@ -1,6 +1,6 @@
 import openai
 import json
-openai.api_key = "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"
+openai.api_key = "APIKEY"
 
 # Example dummy function hard coded to return the same weather
 # In production, this could be your backend API or an external API
